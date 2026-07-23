@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Icons_JIN_Aatrox_Blade"/>
+                    <attribute id="U1" type="float" value="0.00012207031"/>
+                    <attribute id="U2" type="float" value="0.06237793"/>
+                    <attribute id="V1" type="float" value="0.00012207031"/>
+                    <attribute id="V2" type="float" value="0.06237793"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="256"/>
+                    <attribute id="Width" type="int32" value="256"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/newAtlas.dds"/>
+                    <attribute id="UUID" type="FixedString" value="8809c9b7-bf3e-338c-d537-f4d319679ab8"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="4096"/>
+                    <attribute id="Width" type="int32" value="4096"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

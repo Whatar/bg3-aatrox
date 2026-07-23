@@ -1,0 +1,21 @@
+new entry "WORLDENDER"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h27b666aagf47egc9bfg42cbg408fbcc28eba;1"
+data "Description" "h5df5b57egb1bfg2de8g7496g90a691c37e27;1"
+data "Icon" "AatroxR"
+data "Boosts" "CharacterWeaponDamage(1d12*(1 + (Level / 2)),Force);ActionResource(ActionPoint,2,0);ActionResource(BonusActionPoint,2,0);"
+data "Passives" "Aatrox_R;"
+
+new entry "Q1_Charge"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "he3e9739cgf398g0b4cg82a6g0c860e9534e2;2"
+data "Icon" "Aatrox"
+
+new entry "Q2_Charge"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h626238c8g3a35gb302gbb3fgcba2673b32a1;2"
+data "Icon" "Aatrox"
+
