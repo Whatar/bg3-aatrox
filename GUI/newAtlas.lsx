@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Icons_JIN_Aatrox_Blade"/>
+                    <attribute id="MapKey" type="FixedString" value="Icon_JIN_Aatrox_Blade"/>
                     <attribute id="U1" type="float" value="0.1"/>
                     <attribute id="U2" type="float" value="0.2"/>
                     <attribute id="V1" type="float" value="0.0"/>
