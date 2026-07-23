@@ -6,3 +6,7 @@ Desktop.ini
 *.bak
 .vscode/
 .idea/
+
+# Local tooling / converted intermediates
+.tools/
+RootTemplates/*.lsx
