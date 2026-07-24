@@ -1,4 +1,4 @@
-![](GUI/Aatrox.png)
+![](https://thumb.modcdn.io/mods/fa9d/5108218/crop_1280x720/mod_publish_logo.png)
 
 An Aatrox bg3 mod for a true raid boss character.
 
